@@ -28,10 +28,11 @@
   <a href="https://github.com/Rakhi8076">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github">
   </a>
-  <a href="(https://leetcode.com/u/rakhipratapsingh_75505/)">
+  <a href="https://leetcode.com/u/rakhipratapsingh_75505/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode">
   </a>
 </p>
+
 
 ---
 
