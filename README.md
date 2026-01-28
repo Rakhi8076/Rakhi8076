@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&text=Hi%20👋,%20I'm%20Rakhi&fontSize=38&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=180&text=Hi%20👋,%20I'm%20Rakhi&fontSize=38&fontColor=ffffff)
+
 
 <h3 align="center">Engineering Student | DSA | Web Development | Machine Learning</h3>
 
